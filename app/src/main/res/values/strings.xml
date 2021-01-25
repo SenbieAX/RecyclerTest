@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test Recycler</string>
+    <string name="delete">Удалить</string>
+    <string name="number">Номер:</string>
+</resources>
